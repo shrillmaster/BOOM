@@ -2,7 +2,7 @@ local Players = game.Players
 
 local RunService = game:GetService(“RunService”)
 
-local SpeedPerStud = 0.0.5 –Configure this to your liking!!!!!
+local SpeedPerStud = 0.05 –Configure this to your liking!!!!!
 
 local StudsTraveled = 0
 
